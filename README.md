@@ -1,40 +1,24 @@
-Flutter BLoC Login & Gallery App
-A simple and clean Flutter application demonstrating user authentication and data display using the BLoC state management pattern. The app features a login screen with robust input validation and a home screen that fetches and displays a list of images from the Picsum Photos API.
+# Flutter Login & Home App with BLoC
 
-Features
-State Management: Strictly follows the flutter_bloc pattern for predictable and scalable state management.
+A Flutter application demonstrating authentication and navigation using the **BLoC** pattern.  
+The app includes:
+- A **Login screen** with email/password validation.
+- State management with **flutter_bloc**.
+- Redirection to a **Home screen** upon successful login.
+- Home screen fetching and displaying image data from a repository.
 
-Robust Validation: Real-time email and password validation on the login screen using the formz package.
+---
 
-API Integration: Fetches a list of photos from the public picsum.photos API.
+## 📸 Screenshots
+*(Add your app screenshots here)*
 
-Dynamic UI: Displays images with dynamically adjusted aspect ratios for a clean and responsive layout.
+---
 
-Clean Architecture: Code is structured by feature (login, home) for maintainability.
+## 🚀 Getting Started
 
-Modern UI: A polished and user-friendly interface using GoogleFonts.
+### **Prerequisites**
+Before you begin, ensure you have the following installed:
 
-Getting Started
-To get a local copy up and running, follow these simple steps.
-
-Prerequisites
-Flutter SDK (version 3.0.0 or higher)
-
-An IDE like Android Studio or VS Code with the Flutter plugin.
-
-Installation
-Clone the repo
-
-git clone https://github.com/your_username/your_repository_name.git
-
-Navigate to the project directory
-
-cd your_repository_name
-
-Install dependencies
-
-flutter pub get
-
-Run the app
-
-flutter run
+- [Flutter SDK](https://docs.flutter.dev/get-started/install) **version 3.0.0 or higher**
+- An IDE like **Android Studio** or **VS Code** with Flutter & Dart plugins
+- An Android/iOS emulator or a physical device
