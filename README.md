@@ -9,11 +9,6 @@ The app includes:
 
 ---
 
-## 📸 Screenshots
-*(Add your app screenshots here)*
-
----
-
 ## 🚀 Getting Started
 
 ### **Prerequisites**
